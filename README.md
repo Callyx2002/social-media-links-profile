@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://callyx2002.github.io/social-media-links-profile/)
 
 ### Built with
 
@@ -46,6 +46,6 @@ I still need to improve my skill on css in general.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Caleb Arodu](https://callyx2002.github.io/social-media-links-profile/)
 - Frontend Mentor - [@Callyx2002](https://www.frontendmentor.io/profile/@Callyx2002)
 - Twitter - [@CalebArodu](https://www.twitter.com/@CalebArodu)
