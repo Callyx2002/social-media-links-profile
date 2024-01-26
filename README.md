@@ -20,7 +20,7 @@ Cloning a social media links profile page.
 
 ###Screenshot
 
-![](./screenshot.JPG)
+![My solution image](./screenshot.JPG)
 ### The challenge
 
 Users should be able to:
