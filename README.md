@@ -18,6 +18,9 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 Cloning a social media links profile page.
 
+###Screenshot
+
+![](./screenshot.JPG)
 ### The challenge
 
 Users should be able to:
